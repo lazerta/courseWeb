@@ -1,0 +1,18 @@
+@media only screen and (max-width: 767px) {
+    .logo {
+        margin: 0;
+    }
+    .nav-bar {
+        visibility: visible;
+        flex-direction: column;
+        text-align: center;
+        
+    }
+    .nav-hidden {
+        visibility: hidden;
+    }
+    .fas {
+        font-size: 5rem;
+        cursor: pointer;
+    }
+}
