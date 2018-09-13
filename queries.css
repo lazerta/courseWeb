@@ -2,17 +2,17 @@
     .logo {
         margin: 0;
     }
-    .nav-bar {
+     .nav-bar {
         visibility: visible;
         flex-direction: column;
         text-align: center;
         
     }
     .nav-hidden {
-        visibility: hidden;
+        display:inline-block;
+        
     }
-    .fas {
-        font-size: 5rem;
-        cursor: pointer;
-    }
+   
+
+    
 }
